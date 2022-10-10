@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá pessoal!👋
 
+Me chamo Satírio, tenho 30 anos e sou formado em Arquitetura e Urbanismo. Atualmente estou em transição de carreira, entrando aos pouco na área de programação.
+
+
+`"Hello world!"`
 <!--
 **satirioneto/satirioneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
